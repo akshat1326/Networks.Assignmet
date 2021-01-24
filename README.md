@@ -14,7 +14,7 @@ python file_sender.py sw [filename.txt]
 
 **Receiver**
 
-Open a terminal and run the following command
+Open a terminal and run the following command<br/>
 python file_receiver.py sw [filename.txt]
 
 
