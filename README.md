@@ -2,9 +2,9 @@
 
 ## Stop And Wait
 
-Dependencies
-Python 3.x
-Modules time and socket should be installed by default with python
+Dependencies<br/>
+Python 3.x<br/>
+Modules time and socket should be installed by default with python<br/>
 
 **Sender**
 
