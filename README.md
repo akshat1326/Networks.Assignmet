@@ -19,6 +19,6 @@ python file_receiver.py sw [filename.txt]
 
 
 Group memeber Details
-Arun Inani(2017A7PS0085H)
-Abhishek Bhardwaj(2017A7PS1497H)
-Akshat Gupta(2017A7PS1699H)
+Arun Inani(2017A7PS0085H)<br\>
+Abhishek Bhardwaj(2017A7PS1497H)<br\>
+Akshat Gupta(2017A7PS1699H)<br\>
