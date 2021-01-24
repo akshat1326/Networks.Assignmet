@@ -18,7 +18,7 @@ Open a terminal and run the following command
 python file_receiver.py sw [filename.txt]
 
 
-Group memeber Details
+Group memeber Details<br/>
 Arun Inani(2017A7PS0085H)<br/>
 Abhishek Bhardwaj(2017A7PS1497H)<br/>
 Akshat Gupta(2017A7PS1699H)<br/>
