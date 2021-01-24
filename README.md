@@ -8,7 +8,7 @@ Modules time and socket should be installed by default with python
 
 **Sender**
 
-Open a terminal and run the following command where filename.txt is the txt file to be sent
+Open a terminal and run the following command where filename.txt is the txt file to be sent<br/>
 python file_sender.py sw [filename.txt]
 
 
